@@ -30,6 +30,7 @@ Informaçáo de alteração
 - após testado seu código
 - git add --all
 - git commit -m "mensagem"
+- git push (enviar alterações de codigo para o repositório)
 
   ## GitFlow
   Fuxo do Git
