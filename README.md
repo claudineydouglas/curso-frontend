@@ -23,10 +23,13 @@
   ## Criar conta no Github
 
   ## Clonar projeto
+  git clone https://github.com/claudineydouglas/curso-frontend.git
 
   ## Commits
 Informaçáo de alteração
 - após testado seu código
+- git add --all
+- git commit -m "mensagem"
 
   ## GitFlow
   Fuxo do Git
