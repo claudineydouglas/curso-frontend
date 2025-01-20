@@ -32,9 +32,23 @@ Informaçáo de alteração
 - git add --all
 - git commit -m "mensagem"
 - git push (enviar alterações de codigo para o repositório)
+- git pull (puxar / trazer alterações do GitHub para sua máquina)
 
   ## GitFlow
   Fuxo do Git
+
+  ### Brenchs 
+  são ramificações / versões paralelas
+  - main / master vai para produção, quando o projeto e publicado)
+  - develop 
+  - DOD Definition of done: critérios de aceite
+  -versionamento 1.0.0
+
+  git checkout -b dev (cria uma branch)
+  git checkout master (muda de branch)
+
+  ## Merge
+  Mescla de branchs
 
   
   
