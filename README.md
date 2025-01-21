@@ -49,6 +49,19 @@ Informaçáo de alteração
 
   ## Merge
   Mescla de branchs
+  Voçê pode precisar resolver conflitos manualmente
+
+  git merge main
+
+  ### Pull REquests
+  Mesclas de branchs no repositótio
+  Permite code review
+  O repositorio resolve os conflitos automaticamente
+
+  ### configure o GitFlow
+  git flow init
+  git flow feature start {feature/melhoria-html}
+
 
   
   
