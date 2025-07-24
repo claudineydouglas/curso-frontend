@@ -39,7 +39,7 @@ Informaçáo de alteração
 
   ### Brenchs 
   são ramificações / versões paralelas
-  - main / master vai para produção, quando o projeto e publicado)
+  - main / master vai para produção, quando o projeto e publicado
   - develop 
   - DOD Definition of done: critérios de aceite
   -versionamento 1.0.0
