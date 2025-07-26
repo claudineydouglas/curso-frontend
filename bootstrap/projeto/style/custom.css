@@ -1,0 +1,52 @@
+body {
+     background-color: whitesmoke;
+}
+header {
+     background-color: #efefef;
+}
+
+section {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+
+input,textarea {
+    margin-bottom: 1rem;
+}
+
+.card {
+    width: 31.5%;
+    float: left;
+    margin: 4px;
+}
+
+.section-formulario {
+    background-color: #efefef;
+}
+
+p {
+    text-align: justify;
+}
+
+.texto-h5, h2 {
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+}
+
+.form {
+    border: 1px solid rgba(0, 0, 0, 0.499);
+}
+
+#botao {
+    border-radius: 5px;
+    border: 0.5px solid lightgray;
+    background-color: #d9d9d9;
+
+}
+h5.text-truncate.col-3 {
+    background-color: #007BFF;
+    text-align: center;
+}
+div.carrousel-caption {
+    text-align: center;
+}
